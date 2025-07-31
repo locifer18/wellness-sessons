@@ -127,24 +127,43 @@ Edit/View Sessions: From "My Sessions", you can edit your drafts or view details
 
 Folder Structure
 .
+
 ├── backend/
+
 │   ├── config/             # Database connection
+
 │   ├── controllers/        # Logic for handling requests
+
 │   ├── middleware/         # Authentication middleware
+
 │   ├── models/             # Mongoose schemas for data
+
 │   ├── routes/             # API routes
+
 │   └── server.js           # Main backend server file
+
 ├── frontend/
-│   ├── public/             # Static assets (e.g., alram.wav)
+
+│   ├── public/             # Static assets 
+
 │   ├── src/
+
 │   │   ├── assets/         # Images, icons, etc.
+
 │   │   ├── components/     # Reusable React components
+
 │   │   ├── context/        # React Context for global state (e.g., Auth)
+
 │   │   ├── pages/          # Main application pages
+
 │   │   ├── utils/          # Utility functions (e.g., debounce)
+
 │   │   └── App.js          # Main React application component
+
 │   │   └── index.js        # React entry point
+
 │   └── package.json        # Frontend dependencies
+
 └── README.md
 
 Contributing

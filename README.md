@@ -1,4 +1,5 @@
 Wellness Session Scheduler
+
 Project Overview
 The Wellness Session Scheduler is a full-stack web application designed to help users create, manage, and share wellness sessions. It provides a personalized space for users to draft and publish their sessions, making them accessible to a wider audience. The application emphasizes user authentication, secure data management, and a clear, intuitive interface for content creation and discovery.
 
